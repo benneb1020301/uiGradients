@@ -1340,4 +1340,8 @@
         "name": "Grade Grey",
         "colors": ["#bdc3c7","#2c3e50"]
     }
+   {
+        "name": "colorful blue",
+        "colors": ["#00ff99","#00cfff","#0098eb","#ca00e1"]
+    }
 ]
